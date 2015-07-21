@@ -2,10 +2,10 @@
   "uuid": "f32d49d9-8e50-463c-bbc4-5b4a37b418ec",
   "shortName": "vither",
   "longName": "vither",
-  "companyName": "MakeAwesomeHappen",
-  "versionLabel": "1.0",
+  "companyName": "TWallis",
+  "versionLabel": "0.1",
   "sdkVersion": "3",
-  "targetPlatforms": ["aplite", "basalt"],
+  "targetPlatforms": ["basalt"],
   "watchapp": {
     "watchface": false
   },
@@ -13,6 +13,22 @@
     "dummy": 0
   },
   "resources": {
-    "media": []
+    "media": [
+			{
+				"type": "png",
+				"name": "IMAGE_RAIN",
+				"file": "Rain.png"
+			},
+			{
+				"type": "png",
+				"name": "IMAGE_SUN",
+				"file": "Sun.png"
+			},
+			{
+				"type": "png",
+				"name": "IMAGE_CLOUD",
+				"file": "Cloud.png"
+			}
+		]
   }
 }
