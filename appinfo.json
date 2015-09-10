@@ -11,19 +11,6 @@
     "resources": {
         "media": [
             {
-                "characterRegex": "[0-9:. ]",
-                "file": "fonts/futura.ttf",
-                "name": "FUTURA_38",
-                "trackingAdjust": -1,
-                "type": "font"
-            },
-            {
-                "characterRegex": "[0-9: ]",
-                "file": "fonts/FiraSans-ExtraLight.ttf",
-                "name": "FIRA_SANS_EXTRALIGHT_48",
-                "type": "font"
-            },
-            {
                 "file": "images/Cloud.png",
                 "name": "IMAGE_CLOUD",
                 "type": "png"
