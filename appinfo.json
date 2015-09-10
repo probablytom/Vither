@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TWallis",
+    "longName": "vither",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Cloud.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/Sun.png",
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/Rain.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "vither",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "f32d49d9-8e50-463c-bbc4-5b4a37b418ec",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
